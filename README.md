@@ -9,4 +9,4 @@ A collection of some of my favourite projects.
 
 ## Data Visualisation
 - [Singapore Flat Resale](https://github.com/edwardbensa/hidden-ckd) - Visualisation of flat resale prices in Singapore.
-- [Farming Practices Survey](https://github.com/edwardbensa/hidden-ckd) - Visualisation of farming practices (with a focus on antimicrobial use) across various farm types and regions in Ghana.
+- [Farming Practices Survey](https://github.com/edwardbensa/farming-practices-survey) - Visualisation of farming practices (with a focus on antimicrobial use) across various farm types and regions in Ghana.
